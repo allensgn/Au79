@@ -1,32 +1,9 @@
-## Use Bootstrap v4 to create a Responsive form
+## Use Bootstrap v4 to create a responsive form
 
-#### Update form.html to create a sign up form with the following fields and a Submit button.
-1. Salutation
-1. First Name
-1. Last Name
-1. Email
-1. Country of Residence
+#### Update form.html to create a recreate a sign up form found in the URL below.
 
-[Submit]
+1. https://www.singaporeglobalnetwork.gov.sg/keep-in-touch/
 
-#### Using the following placement for the form fields in desktop view.
+1. You only need to implement the form
 
-| Column 1 | Column 2 |
-| ------ | ------ |
-| Salutation |  |
-| First Name | Last Name |
-| Email | Country |
-
-[Submit]
-
-#### This form needs to be rsponsive and on a mobile phone in portrait mode, it will stack up like this.
-
-| Column 1 |
-| ------ |
-| Salutation |
-| First Name | 
-| Last Name |
-| Email |
-| Country |
-
-[Submit]
+1. You may disregard other elements of the web page like top navigation or social media sharing buttons.
