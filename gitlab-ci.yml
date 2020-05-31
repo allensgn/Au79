@@ -8,8 +8,7 @@ deploy:
      - chmod 600 ~/.ssh/id_rsa     
      - '[[ -f /.dockerenv ]] && echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config'   
    script:     
-      - bash .gitlab-deploy.sh   
+      - bash gitlab-deploy.sh   
    environment:     
       name: production     
       url: https://ec2-3-0-93-118.ap-southeast-1.compute.amazonaws.com
-   #when: manual
