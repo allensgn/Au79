@@ -1,6 +1,6 @@
 ## Use Bootstrap v4 to create a responsive form
 
-#### Update form.html to create a recreate a sign up form found in the URL below.
+#### Update form.html to recreate a sign up form found in the URL below.
 
 1. https://www.singaporeglobalnetwork.gov.sg/keep-in-touch/
 
