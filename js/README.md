@@ -1,4 +1,4 @@
-## Use JavaScript or a langugage of your choice to connect to a RESTful API and process JSON output
+## Use JavaScript or a langugage of your choice to connect to a RESTful API and process JSON output in a responsive manner
 
 #### Connect to the following endpoint to retrieve Posts
 
@@ -14,5 +14,3 @@ https://dev.singaporeglobalnetwork.gov.sg/wp-json/wp/v2/users
 1. Date Created
 1. Author Name
 1. Content
-
-#### The webpage needs to be responsive
