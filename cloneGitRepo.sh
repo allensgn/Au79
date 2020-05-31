@@ -3,7 +3,7 @@
 # any future command that fails will exit the script
 set -e
 
-rm -rf /home/bitnami/stack/nginx/html/internship2020
+rm -rf /home/bitnami/stack/nginx/html/Pb82
 
 cd /home/bitnami/stack/nginx/html
 
