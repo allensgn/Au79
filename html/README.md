@@ -4,6 +4,6 @@
 
 1. https://www.singaporeglobalnetwork.gov.sg/keep-in-touch/
 
-1. You only need to implement the form
+1. You only need to implement the form with similar validation logic.
 
 1. You may disregard other elements of the web page like top navigation or social media sharing buttons.
