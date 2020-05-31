@@ -14,3 +14,5 @@ https://dev.singaporeglobalnetwork.gov.sg/wp-json/wp/v2/users
 1. Date Created
 1. Author Name
 1. Content
+
+#### The webpage needs to be deigned for mobile devices first
