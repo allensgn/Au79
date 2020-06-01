@@ -6,7 +6,7 @@
 
 1. You only need to implement the form with similar validation logic.
 
-1. Please refer to the hi-fi design mockup for placement of form fields.
+1. Please refer to the hi-fi design mockup named hi-fi-form.png for placement of form fields.
 
 1. You may disregard other elements of the web page like top navigation or social media sharing buttons.
 
