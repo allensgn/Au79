@@ -2,11 +2,11 @@
 
 #### Connect to the following endpoint to retrieve Posts
 
-https://dev.singaporeglobalnetwork.gov.sg/wp-json/wp/v2/posts
+https://ec2-13-250-253-71.ap-southeast-1.compute.amazonaws.com/wp-json/wp/v2/posts
 
 #### Connect to the following endpoint to retrieve Users
 
-https://dev.singaporeglobalnetwork.gov.sg/wp-json/wp/v2/users
+https://ec2-13-250-253-71.ap-southeast-1.compute.amazonaws.com/wp-json/wp/v2/users
 
 #### Update show-posts.html to display posts using the following format
 1. Title
