@@ -2,15 +2,12 @@
 
 #### Connect to the following endpoint to retrieve Posts
 
-https://ec2-13-250-253-71.ap-southeast-1.compute.amazonaws.com/wp-json/wp/v2/posts
-
-#### Connect to the following endpoint to retrieve Users
-
-https://ec2-13-250-253-71.ap-southeast-1.compute.amazonaws.com/wp-json/wp/v2/users
+https://public-api.wordpress.com/rest/v1.1/sites/178297051/posts/
 
 #### Update show-posts.html to display posts using the following format
 1. Title
 1. URL to Post
 1. Date Created
-1. Author Name
+1. Author Name (if present)
 1. Content
+1. Images (if present)
