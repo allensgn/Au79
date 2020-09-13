@@ -2,6 +2,10 @@
 
 This project holds evaluation exercises for hiring technical lead and software enginner roles for the year 2020.
 
+1. Log in to Gitlab.com and ensure you have access to the Pb82 project
+
+1. Use the Web IDE of Gitlab.com to attempt the following real-world exercises
+
 ### Please attempt the following assessment in any order of your choosing
 
 1. Create a form found in html folder with instructions given in the folder
