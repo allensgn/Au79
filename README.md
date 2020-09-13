@@ -6,7 +6,7 @@ This project holds evaluation exercises for hiring technical lead and software e
 
 1. Use the Web IDE of Gitlab.com to attempt the following real-world exercises
 
-### Please attempt the following assessment in any order of your choosing
+### Please attempt the following exercises in any order of your choosing
 
 1. Create a form found in html folder with instructions given in the folder
 
