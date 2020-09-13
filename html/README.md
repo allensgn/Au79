@@ -2,7 +2,7 @@
 
 #### Update form.html to recreate a sign up form found in the URL below.
 
-1. https://www.singaporeglobalnetwork.gov.sg/keep-in-touch/
+1. https://www.singaporeglobalnetwork.gov.sg/join-us/
 
 1. You only need to implement the form with similar validation logic.
 
