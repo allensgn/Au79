@@ -4,7 +4,7 @@
 
 https://public-api.wordpress.com/rest/v1.1/sites/178297051/posts/
 
-#### Update show-posts.html to display posts using the following format
+#### Update show-posts.html to display *all* posts using the following format with pagination set to *20 per page*
 1. Title
 1. URL to Post
 1. Date Created
